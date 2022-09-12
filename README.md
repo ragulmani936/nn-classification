@@ -14,17 +14,45 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+
 
 ## DESIGN STEPS
 
 ### STEP 1:
 
+Loading the Dataset.
+
 ### STEP 2:
 
-### STEP 3:
-Write your own steps
+Cheaking the null values and converting the string datatype into integer or float type using label encoder.
 
+### STEP 3:
+
+Split the dataset into training and testing.
+
+## STEP 4:
+
+Create MinMaxScaler objects,fit the model and transform the data.
+
+## STEP 5:
+
+Build the Neural Network Model and compile the madel.
+
+## STEP 6:
+
+Train the model with the training data.
+
+## STEP 7:
+
+Plot the training loss and validation loss.
+
+## STEP 8:
+
+Predicting the model through classification report,confusion matrix.
+
+## STEP 9:
+
+Predict the new sample data.
 ## PROGRAM
 ~~~
 import pandas as pd
@@ -263,3 +291,4 @@ Include confusion matrix here
 Include your sample input and output here
 
 ## RESULT
+Thus,the neural network classification model for the given dataset is developed.
