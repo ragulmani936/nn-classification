@@ -271,7 +271,7 @@ print(le.inverse_transform(x_single_prediction))
 ~~~
 ## Dataset Information
 
-![output](https://github.com/ragulmani936/nn-classification/blob/main/Dataset%20information.png)
+![output](https://github.com/ragulmani936/nn-classification/blob/main/data%20.png)
 
 ## OUTPUT
 
