@@ -285,7 +285,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Confusion Matrix
 
-![output]()
+![output](https://github.com/ragulmani936/nn-classification/blob/main/cofusion%20matrix.png)
 
 
 ### New Sample Data Prediction
