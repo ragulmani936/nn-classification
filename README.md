@@ -290,7 +290,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### New Sample Data Prediction
 
-![output]()
+![output](https://github.com/ragulmani936/nn-classification/blob/main/new%20sample%20data.png)
 
 ## RESULT
 Thus,the neural network classification model for the given dataset is developed.
