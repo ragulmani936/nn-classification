@@ -281,7 +281,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Classification Report
 
-![output]()
+![output](https://github.com/ragulmani936/nn-classification/blob/main/classification%20report.png)
 
 ### Confusion Matrix
 
