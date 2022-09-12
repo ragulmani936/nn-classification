@@ -269,26 +269,26 @@ print(le.inverse_transform(x_single_prediction))
 ~~~
 ## Dataset Information
 
-Include screenshot of the dataset
+![output]()
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![output]()
 
 ### Classification Report
 
-Include Classification Report here
+![output]()
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![output]()
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![output]()
 
 ## RESULT
 Thus,the neural network classification model for the given dataset is developed.
